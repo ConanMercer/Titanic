@@ -7,4 +7,6 @@ The dataset was retrieved from Kaggle at this address:
 
 https://www.kaggle.com/c/titanic
 
+The goal is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+
 This is an ongoing project.
